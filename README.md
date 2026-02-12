@@ -1,7 +1,3 @@
-Claro, Lucca! 👨‍💻
-Segue um **README.md** profissional para o seu perfil do GitHub, já estruturado em Markdown (é só copiar e colar):
-
----
 
 # 👋 Olá, eu sou o Lucca
 
