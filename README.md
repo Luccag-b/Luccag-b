@@ -21,6 +21,7 @@ Estou sempre em busca de aprendizado contínuo, novos desafios e oportunidades p
 * 🌐 **JavaScript**
 * 🐍 **Python**
 * 🧱 **HTML**
+* 🎨 **CSS**
 
 ---
 
