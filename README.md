@@ -131,7 +131,7 @@ Se quiser trocar conhecimento ou colaborar em projetos:
 <div align="center">
 
 <a href="https://github.com/Luccag-b"><img src="https://img.shields.io/badge/GitHub-Luccag--b-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI"><img src="https://img.shields.io/badge/LinkedIn-Lucca%20Goeldi%20Bicudo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/luccagoeldi"><img src="https://img.shields.io/badge/LinkedIn-Lucca%20Goeldi%20Bicudo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
